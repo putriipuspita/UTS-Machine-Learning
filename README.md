@@ -43,7 +43,7 @@ Dataset terdiri dari beberapa fitur yaitu:
 <h2>Decision Tree</h2>
 
 <p align="center">
-  <img src="Gambar/dt.png" height="250"/>
+  <img src="Gambar/dt_2.png" height="250"/>
   <img src="Gambar/cm_dt.png" height="250" />
 </p>
 
